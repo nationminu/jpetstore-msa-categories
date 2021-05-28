@@ -1,0 +1,10 @@
+{
+    "categories":
+    [
+        {"catid":"FISH","name":"Fish","image":"<image src=\"../images/sm_fish.gif\">"},
+        {"catid":"DOGS","name":"Dogs","image":"<image src=\"../images/sm_dogs.gif\">"},
+        {"catid":"REPTILES","name":"Reptiles","image":"<image src=\"../images/sm_reptiles.gif\">"},
+        {"catid":"CATS","name":"Cats","image":"<image src=\"../images/sm_cats.gif\">"},
+        {"catid":"BIRDS","name":"Birds","image":"<image src=\"../images/sm_birds.gif\">"}
+    ] 
+}
